@@ -1,6 +1,6 @@
 ## O projeto
 
-Aplicação para gerenciar produtos e demandas, onde cada demanda possuí suas características como produtos, quantidade a ser produzida de cada produto. Os usuários podem realizar as operaçoes CRUD para produtos e demandas.
+Frontend da aplicação para gerenciar produtos e demandas, onde cada demanda possuí suas características como produtos, quantidade a ser produzida de cada produto. Os usuários podem realizar as operaçoes CRUD para produtos e demandas.
 
 ### :zap: Tecnologias Usadas
 
