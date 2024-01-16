@@ -39,4 +39,3 @@ O projeto exemplo está hospedado na AWS em um servidor EC2
 
 - [Frontend](http://ec2-3-145-145-251.us-east-2.compute.amazonaws.com/)
 - [Backend](http://ec2-3-145-145-251.us-east-2.compute.amazonaws.com/api)
-- [Documentação](http://ec2-3-145-145-251.us-east-2.compute.amazonaws.com/api/documentation)
