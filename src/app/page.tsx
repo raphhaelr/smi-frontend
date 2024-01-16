@@ -1,14 +1,5 @@
-import Image from 'next/image'
-import styles from './page.module.css'
+import Demands from './demands/page'
 
 export default function Home() {
-  return (
-    <main>
-      <div>
-        <header>
-          
-        </header>
-      </div>
-    </main>
-  )
+  return <Demands />
 }
