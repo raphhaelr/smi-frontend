@@ -2,7 +2,7 @@
 
 Aplicação para gerenciar produtos e demandas, onde cada demanda possuí suas características como produtos, quantidade a ser produzida de cada produto. Os usuários podem realizar as operaçoes CRUD para produtos e demandas.
 
-### Tecnologias Usadas
+### :zap: Tecnologias Usadas
 
 O projeto foi feito com as seguintes tecnologias:
 
@@ -20,6 +20,11 @@ O projeto foi feito com as seguintes tecnologias:
 $ git clone https://github.com/raphhaelr/smi-frontend.git
 $ cd smi-frontend
 $ npm install
+```
+
+#### Configurando o Frontend
+```sh
+$ Definir baseURL da API no arquivo ./src/api/api.ts
 ```
 
 #### Iniciando o Frontend
