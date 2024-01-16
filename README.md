@@ -25,6 +25,7 @@ $ npm install
 #### Configurando o Frontend
 ```sh
 $ Definir baseURL da API no arquivo ./src/api/api.ts
+$ Necessário deixar o prefix /api após a URL ex: https://localhost:3333/api
 ```
 
 #### Iniciando o Frontend
