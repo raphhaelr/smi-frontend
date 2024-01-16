@@ -32,3 +32,11 @@ $ Necessário deixar o prefix /api após a URL ex: https://localhost:3333/api
 ```sh
 $ npm run dev
 ```
+
+### :zap: Acesso ao exemplo
+
+O projeto exemplo está hospedado na AWS em um servidor EC2
+
+- [Frontend](http://ec2-3-145-145-251.us-east-2.compute.amazonaws.com/)
+- [Backend](http://ec2-3-145-145-251.us-east-2.compute.amazonaws.com/api)
+- [Documentação](http://ec2-3-145-145-251.us-east-2.compute.amazonaws.com/api/documentation)
