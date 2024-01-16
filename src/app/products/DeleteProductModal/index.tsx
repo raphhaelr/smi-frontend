@@ -38,7 +38,7 @@ export function DeleteProductModal({ productId }: ModalProps) {
             </AlertDialog.Cancel>
             <AlertDialog.Action asChild>
               <button
-                className="Button red cursor-pointer"
+                className="Button red cursor-pointer bg-orangeSmi text-white"
                 onClick={() => handleDeleteProduct(productId)}
               >
                 SIM

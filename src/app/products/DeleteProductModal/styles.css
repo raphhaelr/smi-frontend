@@ -70,11 +70,11 @@ button {
   box-shadow: 0 0 0 2px black;
 }
 .Button.red {
-  background-color: var(--red-4);
-  color: var(--red-11);
+  background-color: #F05123;
+  color: #f1f3f4;
 }
 .Button.red:hover {
-  background-color: var(--red-5);
+  background-color: #d84920;
 }
 .Button.red:focus {
   box-shadow: 0 0 0 2px var(--red-7);
